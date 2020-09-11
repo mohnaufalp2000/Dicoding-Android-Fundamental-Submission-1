@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798330644506",
+    "firebase_url": "https://aplikasi-github-user.firebaseio.com",
+    "project_id": "aplikasi-github-user",
+    "storage_bucket": "aplikasi-github-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798330644506:android:b528b527774792af2ec9a3",
+        "android_client_info": {
+          "package_name": "com.gopal.aplikasigithubuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798330644506-vg895afku3k0pb07gu388ocvveo7m9bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6punJTVs7xcoW260LsbBTNpqxhLvWzkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798330644506-vg895afku3k0pb07gu388ocvveo7m9bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
